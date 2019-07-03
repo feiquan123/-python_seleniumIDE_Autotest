@@ -1,0 +1,72 @@
+1520582072779	geckodriver	INFO	geckodriver 0.19.1
+1520582072792	geckodriver	INFO	Listening on 127.0.0.1:2476
+1520582075835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.XmclTNfebG1t"
+1520582076592	Marionette	INFO	Enabled via --marionette
+1520582078044	Marionette	INFO	Listening on port 2484
+1520582078969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520582079114	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270 < GeckoDriver.prototype.quit()@driver.js:3381 < despatch()@server.js:560 < execute()@server.js:534 < onPacket/<()@server.js:509 < onPacket()@server.js:508 < _onJSONObjectReady/<()@transport.js:500
+1520582307439	geckodriver	INFO	geckodriver 0.19.1
+1520582307453	geckodriver	INFO	Listening on 127.0.0.1:2509
+1520582310506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.D31tArhkDQM6"
+1520582311271	Marionette	INFO	Enabled via --marionette
+1520582312599	Marionette	INFO	Listening on port 2517
+1520582313647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520582313806	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270 < GeckoDriver.prototype.quit()@driver.js:3381 < despatch()@server.js:560 < execute()@server.js:534 < onPacket/<()@server.js:509 < onPacket()@server.js:508 < _onJSONObjectReady/<()@transport.js:500
+1520582342709	geckodriver	INFO	geckodriver 0.19.1
+1520582342723	geckodriver	INFO	Listening on 127.0.0.1:2545
+1520582345766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.iP5XTP1Wrweu"
+1520582346525	Marionette	INFO	Enabled via --marionette
+1520582347897	Marionette	INFO	Listening on port 2553
+1520582348897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520582349051	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270 < GeckoDriver.prototype.quit()@driver.js:3381 < despatch()@server.js:560 < execute()@server.js:534 < onPacket/<()@server.js:509 < onPacket()@server.js:508 < _onJSONObjectReady/<()@transport.js:500
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520582349365	geckodriver	INFO	geckodriver 0.19.1
+1520582349385	geckodriver	INFO	Listening on 127.0.0.1:2579
+1520582352424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.5WjXsKvKJmXt"
+1520582353209	Marionette	INFO	Enabled via --marionette
+1520582354640	Marionette	INFO	Listening on port 2587
+1520582355557	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520582493497	geckodriver	INFO	geckodriver 0.19.1
+1520582493511	geckodriver	INFO	Listening on 127.0.0.1:2658
+1520582496562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.PDdHVIvEPZfr"
+1520582497478	Marionette	INFO	Enabled via --marionette
+1520582498822	Marionette	INFO	Listening on port 2666
+1520582499694	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520582772519	geckodriver	INFO	geckodriver 0.19.1
+1520582772532	geckodriver	INFO	Listening on 127.0.0.1:2777
+1520582775575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.XrUBkqtjpGGo"
+1520582776503	Marionette	INFO	Enabled via --marionette
+1520582777948	Marionette	INFO	Listening on port 2786
+1520582778706	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520582792563	geckodriver	INFO	geckodriver 0.19.1
+1520582792576	geckodriver	INFO	Listening on 127.0.0.1:2849
+1520582795627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.5FSH9syXaDNm"
+1520582796552	Marionette	INFO	Enabled via --marionette
+1520582797814	Marionette	INFO	Listening on port 2857
+1520582798759	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520582812564	geckodriver	INFO	geckodriver 0.19.1
+1520582812577	geckodriver	INFO	Listening on 127.0.0.1:2919
+1520582815617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.LVc4Xrq2sokS"
+1520582816387	Marionette	INFO	Enabled via --marionette
+1520582817770	Marionette	INFO	Listening on port 2927
+1520582818751	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Zhi\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520583009003	geckodriver	INFO	geckodriver 0.19.1
+1520583009017	geckodriver	INFO	Listening on 127.0.0.1:3087
+1520583012073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Zhi\\AppData\\Local\\Temp\\rust_mozprofile.YTDgEG8vULlt"
+1520583012860	Marionette	INFO	Enabled via --marionette
+1520583014161	Marionette	INFO	Listening on port 3095
+1520583015208	Marionette	WARN	TLS certificate errors will be ignored for this session
